@@ -2,6 +2,9 @@
 
 A professional cybersecurity desktop application built with Python.
 Developed during the **Pinnacle Labs Cybersecurity Internship**.
+## 📸 Screenshot
+
+![Password Analyzer Pro](screenshot.png)
 
 ## 🚀 Features
 - Real-time password strength analysis
